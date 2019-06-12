@@ -1,0 +1,8 @@
+@import 'carbon-components/scss/globals/scss/styles.scss';
+@import 'css-spaces/source/spaces.scss';
+@import './assests/weather-icons-master/sass/weather-icons.min.scss';
+@import './assests/scss/typography.scss';
+$feature-flags: (
+  ui-shell: true,
+);
+

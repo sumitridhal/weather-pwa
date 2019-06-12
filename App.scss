@@ -1,0 +1,59 @@
+@import './components/header/header.scss';
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.space-around{
+  justify-content: space-around;
+}
+
+.bx--inline-loading {
+  justify-content: center;
+}
+
+.inline {
+  display: inline;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+hr {
+  width: 100%;
+  border: 1px solid #c4c4c4;
+  height: 0;
+  outline: none;
+  &:before{
+    content: '';
+    content: '';
+    position: absolute;
+    height: 17px;
+    right: 50%;
+    width: 1px;
+    background-color: #c4c4c4;
+    top: 75%;
+  }
+}
+
+i.wi {
+  &.lg{
+    font-size: 4em;
+  }
+  color: #FFC107;
+}
