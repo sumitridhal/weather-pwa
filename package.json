@@ -8,7 +8,7 @@
     "carbon-components": "^10.3.0",
     "carbon-components-react": "^7.3.0",
     "css-spaces": "^0.3.5",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
