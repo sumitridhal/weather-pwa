@@ -2929,6 +2929,10 @@ css-select@^2.0.0:
     domutils "^1.7.0"
     nth-check "^1.0.1"
 
+css-spaces@^0.3.5:
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/css-spaces/-/css-spaces-0.3.5.tgz#2f85c3cf5373342d80607237313a3aee9af1a8b4"
+
 css-tree@1.0.0-alpha.28:
   version "1.0.0-alpha.28"
   resolved "https://registry.yarnpkg.com/css-tree/-/css-tree-1.0.0-alpha.28.tgz#8e8968190d886c9477bc8d61e96f61af3f7ffa7f"
@@ -3134,8 +3138,8 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 deep-equal@^1.0.1:
   version "1.0.1"
