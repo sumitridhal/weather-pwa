@@ -2929,6 +2929,10 @@ css-select@^2.0.0:
     domutils "^1.7.0"
     nth-check "^1.0.1"
 
+css-spaces@^0.3.5:
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/css-spaces/-/css-spaces-0.3.5.tgz#2f85c3cf5373342d80607237313a3aee9af1a8b4"
+
 css-tree@1.0.0-alpha.28:
   version "1.0.0-alpha.28"
   resolved "https://registry.yarnpkg.com/css-tree/-/css-tree-1.0.0-alpha.28.tgz#8e8968190d886c9477bc8d61e96f61af3f7ffa7f"
@@ -5587,10 +5591,8 @@ json5@^1.0.1:
     minimist "^1.2.0"
 
 json5@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-2.1.0.tgz#e7a0c62c48285c628d20a10b85c89bb807c32850"
-  dependencies:
-    minimist "^1.2.0"
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
 
 jsonfile@^4.0.0:
   version "4.0.0"
